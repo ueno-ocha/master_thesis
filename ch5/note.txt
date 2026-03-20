@@ -1,2 +1,0 @@
-The code in the stereoset/ directory is based on the original implementation and has been partially modified for this study.
-https://github.com/McGill-NLP/bias-bench
