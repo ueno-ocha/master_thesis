@@ -2,5 +2,6 @@
 This repo stores code implementations of master thesis.
 
 ### 補足
-`stereoset/` 内のコードは，元実装を一部利用・改変したものである．
+The code in the `stereoset/` directory is based on the original implementation and has been partially modified for this study.
+
 https://github.com/McGill-NLP/bias-bench
